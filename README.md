@@ -1,6 +1,6 @@
 # lottie_move_to_effect_testing
 
-A new Flutter project.
+Тестування ефекту MoveByEffect на Flame. Flutter.
 
 ## Getting Started
 
